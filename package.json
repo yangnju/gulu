@@ -1,0 +1,23 @@
+{
+  "name": "gulu",
+  "version": "0.0.1",
+  "description": "ui库",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangnju/gulu.git"
+  },
+  "keywords": [
+    "vue",
+    "UI"
+  ],
+  "author": "CStark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangnju/gulu/issues"
+  },
+  "homepage": "https://github.com/yangnju/gulu#readme"
+}
