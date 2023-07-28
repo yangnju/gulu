@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/yangnju/gulu#readme",
   "dependencies": {
-    "vue": "^3.3.4"
+    "vue": "^2.6"
   }
 }
